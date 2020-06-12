@@ -1,0 +1,15 @@
+@charset "UTF-8";
+body{
+	text-align:center;
+}
+.button1{
+	margin:5px;
+	padding:20px;
+}
+.button2{
+	margin:20px;
+	padding:10px;
+}
+.item-name{
+	margin:5px;
+}
